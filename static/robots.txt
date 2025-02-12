@@ -1,0 +1,11 @@
+User-Agent: * 
+Allow: /
+Sitemap: https://mjcb.ca/sitemap.xml
+
+Disallow: /docs/*
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /

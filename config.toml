@@ -1,0 +1,109 @@
+baseURL = "https://mjcb.ca/"
+languageCode = "en-us"
+title = "mjcb.ca"
+copyright = "Copyright © 2018 - 2025 Matthew Burr"
+theme = "hugo-clarity"
+paginate = 8
+
+[params]
+    mainSections = ["blog", "publications"]
+    intro = true
+    headline = "A website about networking, system administration and other things that interest me."
+    description = "A website about networking, system administration and other things that interest me."
+    introDescription = "A website about networking, system administration and other things that interest me."
+    author = "Matthew Burr"
+    email = "matthew@mjcb.ca"
+    opengraph = true
+    dateFormat = "Monday, January 2, 2006"
+    numberOfTagsShown = 14
+    logo = "/images/mjcb.ca.png"
+    iconsDir = "/"
+    autoHeadingID = true
+    rssSummary = true
+    largeTwitterCard = true
+    enforceLightMode = true
+    enableSearch = true
+    codeLineNumbers = false
+    mobileNavigation = "right"
+    ignoreErrors = [ "error-remote-getjson" ]
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+    [markup.tableOfContents]
+        endLevel = 5
+        ordered = false
+        startLevel = 2
+
+[permalinks]
+    blog = "/blog/:year/:month/:day/:slug/"
+    publications = "/publications/:slug/"
+
+[sitemap]
+    changefreq = "weekly"
+    filename = "sitemap.xml"
+    priority = 0.5
+
+[privacy]
+    [privacy.youtube]
+        disable = true
+        privacyEnhanced = true
+
+[menu]
+    [[menu.main]]
+        identifier = "home"
+        name = "Home"
+        title = "Home"
+        url = "/"
+        weight = 10
+
+    [[menu.main]]
+        identifier = "publications"
+        name = "Publications"
+        title = "Publications"
+        url = "/publications/"
+        weight = 20
+
+    [[menu.main]]
+        identifier = "guides"
+        name = "Guides"
+        title = "Guides"
+        url = "/guides/"
+        weight = 30
+
+    [[menu.main]]
+        identifier = "store"
+        name = "Store"
+        url = "https://store.mjcb.io/"
+        target = "_blank"
+        weight = 40
+
+    [[menu.main]]
+        identifier = "docs"
+        name = "Docs"
+        url = "https://docs.mjcb.io/"
+        target = "_blank"
+        weight = 50
+
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        title = "About"
+        url = "/about/"
+        weight = 60
+
+    [[menu.main]]
+        identifier = "archives"
+        name = "Archives"
+        title = "Archives"
+        url = "/archives/"
+        weight = 70
+
+    [[menu.social]]
+        name = "rss"
+        url = "index.xml"
+        weight = 10
