@@ -2,6 +2,8 @@
 
 This is the Git repository for the **mjcb.ca** website, which is currently using the Hugo CMS platform and is deployed using the Netlify platform.
 
+This website was migrated from the **mjcb.io** domain in early 2025.
+
 ## Theme ##
 
 This website uses the [Hugo Clarity](https://github.com/chipzoller/hugo-clarity) theme.
