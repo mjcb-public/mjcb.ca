@@ -110,7 +110,7 @@ Once connected to Exchange Online, create the Mail Flow Rule by running the foll
 New-TransportRule `
     -Name "MJCB RFC 2141 - Business" `
     -HeaderMatchesMessageHeader To `
-    -HeaderMatchesPatterns "info@mjcb.io","marketing@mjcb.io","sales@mjcb.io","support@mjcb.io" `
+    -HeaderMatchesPatterns "info@mjcb.ca","marketing@mjcb.ca","sales@mjcb.ca","support@mjcb.ca" `
     -PrependSubject "[MJCB Business] " `
     -Mode Enforce
 ```

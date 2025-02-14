@@ -37,9 +37,9 @@ I have been to Portugal several times in the last 8 years, and this was the firs
 
 ## Website Changes ##
 
-I launched a companion website for this site, [docs.mjcb.io](https://docs.mjcb.io/). The purpose of this website is to store guides and other documentation that I have written over the last decade. I won't make any announcements on the blog if I release anything, but some posts may link to content on that website. Complex topics will always appear on that site, and it uses a public repository.
+I launched a companion website for this site, [docs.mjcb.ca](https://docs.mjcb.ca/). The purpose of this website is to store guides and other documentation that I have written over the last decade. I won't make any announcements on the blog if I release anything, but some posts may link to content on that website. Complex topics will always appear on that site, and it uses a public repository.
 
-Several months ago I moved the website from Bitbucket to GitHub, which I talked about briefly in the [Website GitHub Migration](/blog/2022/11/03/website-github-migration/). I just got tired of Bitbucket in general, I felt like the way that they implemented MFA to be overly complicated and making commits was always a pain. I was somewhat hesitant to make the [mjcb.io website Git repository](https://github.com/matthew-tfs/mjcb.io) public until I realized that it made no difference if it was public or private. There is nothing proprietary or secret in the repository, it is just a basic Hugo website with static content.
+Several months ago I moved the website from Bitbucket to GitHub, which I talked about briefly in the [Website GitHub Migration](/blog/2022/11/03/website-github-migration/). I just got tired of Bitbucket in general, I felt like the way that they implemented MFA to be overly complicated and making commits was always a pain. I was somewhat hesitant to make the [mjcb.ca website Git repository](https://github.com/matthew-tfs/mjcb.ca) public until I realized that it made no difference if it was public or private. There is nothing proprietary or secret in the repository, it is just a basic Hugo website with static content.
 
 I finally got around to creating a logo/icon for the website, which has been on my to-do list for a while. It is basic, but it works.
 

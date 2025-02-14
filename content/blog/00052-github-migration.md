@@ -19,13 +19,13 @@ I recently deleted my Atlassian accounts and migrated all my code from Bitbucket
 
 I migrated this website from WordPress.com to Hugo and Netlify in late 2021. I wrote about this migration in the [Goodbye WordPress, Hello Hugo](/blog/2021/12/23/goodbye-wordpress-hello-hugo/) post. I have been very happy with this change, as the amount of effort required to maintain the website has gone to zero. The other upside is the cost going to zero as well.
 
-I decided to make the repository public for this website. I did the same for my [docs.mjcb.io](/blog/2022/10/05/docs-mjcb-io/) website as well. If someone really wants to look at Markdown files, you are free to look around.
+I decided to make the repository public for this website. I did the same for my [docs.mjcb.ca](/blog/2022/10/05/docs-mjcb-io/) website as well. If someone really wants to look at Markdown files, you are free to look around.
 
 ## License ##
 
-I originally used the MIT license for this website, but I have since changed it to the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. The same license is also applied to my companion [docs.mjcb.io](https://docs.mjcb.io/) website.
+I originally used the MIT license for this website, but I have since changed it to the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. The same license is also applied to my companion [docs.mjcb.ca](https://docs.mjcb.ca/) website.
 
-The license can be viewed [here](https://github.com/matthew-tfs/mjcb.io/blob/main/LICENSE).
+The license can be viewed [here](https://github.com/matthew-tfs/mjcb.ca/blob/main/LICENSE).
 
 ## Additional Information ##
 
@@ -36,5 +36,5 @@ If anyone is wondering why I keep a few text files in the root of the repository
 ## Links ##
 
 * [GitHub Profile](https://github.com/matthew-tfs)
-* [docs.mjcb.io GitHub Repository](https://github.com/matthew-tfs/docs.mjcb.io)
-* [mjcb.io GitHub Repository](https://github.com/matthew-tfs/mjcb.io)
+* [docs.mjcb.ca GitHub Repository](https://github.com/matthew-tfs/docs.mjcb.ca)
+* [mjcb.ca GitHub Repository](https://github.com/matthew-tfs/mjcb.ca)

@@ -30,7 +30,7 @@ The full details of the lawsuit and several related documents can be found below
 * [Justice Department Sues Apple for Monopolizing Smartphone Markets](https://www.justice.gov/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets)
 * [U.S and Plaintiff States v. Apple Inc.](https://www.justice.gov/atr/case/us-and-plaintiff-states-v-apple-inc)
 
-I made a local copy of the Press Release and the full complaint document since these things can change or get lost over time, and they can be found [here](#links). I have also mirrored the main contents of the lawsuit [here](https://docs.mjcb.io/apple/lawsuits/2-24-cv-04055/) to make it easier to read.
+I made a local copy of the Press Release and the full complaint document since these things can change or get lost over time, and they can be found [here](#links). I have also mirrored the main contents of the lawsuit [here](https://docs.mjcb.ca/apple/lawsuits/2-24-cv-04055/) to make it easier to read.
 
 From the Press Release is the main complaint that prompted the lawsuit to be filed in the first place:
 
@@ -154,6 +154,6 @@ At the same time, I am not actually expecting anything to come out of the lawsui
 
 * [U.S and Plaintiff States v. Apple Inc.](https://www.justice.gov/atr/case/us-and-plaintiff-states-v-apple-inc) ([Local Version](/docs/blog/00062/us_and_plaintiff_states_v_apple_inc_03-21-2024.pdf))
 * [Justice Department Sues Apple for Monopolizing Smartphone Markets](https://www.justice.gov/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets) ([Local Version](/docs/blog/00062/justice_department_sues_apple_for_monopolizing_smartphone_markets_03-21-2024.pdf))
-* [Case 2:24-cv-04055](https://www.justice.gov/d9/2024-03/420763.pdf) ([Local Version](/docs/blog/00062/case_2-24-cv-04055_03-21-2024.pdf)) ([Docs Version](https://docs.mjcb.io/apple/lawsuits/2-24-cv-04055/))
+* [Case 2:24-cv-04055](https://www.justice.gov/d9/2024-03/420763.pdf) ([Local Version](/docs/blog/00062/case_2-24-cv-04055_03-21-2024.pdf)) ([Docs Version](https://docs.mjcb.ca/apple/lawsuits/2-24-cv-04055/))
 * [Get The Message](https://www.android.com/get-the-message/)
 * [Killed by Google](https://killedbygoogle.com/)

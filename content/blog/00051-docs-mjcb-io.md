@@ -1,5 +1,5 @@
 ---
-title: "Docs (docs.mjcb.io)"
+title: "Docs (docs.mjcb.ca)"
 slug: "docs-mjcb-io"
 date: "2022-10-05T19:48:00"
 author: "Matthew Burr"
@@ -10,7 +10,7 @@ tags: [
     "Website"
 ]
 categories: [ "Blog" ]
-thumbnail: "/images/blog/00051/docs.mjcb.io.png"
+thumbnail: "/images/blog/00051/docs.mjcb.ca.png"
 draft: false
 featured: true
 ---
@@ -29,13 +29,13 @@ I posted the [Building a Certificate Authority in Windows Server 2019](/blog/202
 
 I have recently migrated all of my Git repos to GitHub (in contrast to my [Sorry, I Don't Have a GitHub Page](/blog/2019/04/02/sorry-no-github-page/) post). I decided to make the website on a public repository so anyone could look at the source, but I am not making it a community repository or anything. I'll probably move this website to a public repository as well, there isn't anything secret here or anything so there isn't a reason to keep it private.
 
-The website uses the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. The license can be viewed [here](https://github.com/matthew-tfs/docs.mjcb.io/blob/main/LICENSE).
+The website uses the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. The license can be viewed [here](https://github.com/matthew-tfs/docs.mjcb.ca/blob/main/LICENSE).
 
 This new website is going to be a continual work in progress, and I won't post updates about it to this blog unless I need to. I will continue to post items to my main website, it is not going away.
 
 ## Links ##
 
-* [docs.mjcb.io](https://docs.mjcb.io/)
+* [docs.mjcb.ca](https://docs.mjcb.ca/)
 * [Geekdoc](https://github.com/thegeeklab/hugo-geekdoc/)
 * [Hugo](https://gohugo.io/)
 * [Netlify](https://www.netlify.com/)

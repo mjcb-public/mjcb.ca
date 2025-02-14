@@ -33,6 +33,6 @@ I have been doing some work lately on a new project, and I may follow-up this po
 
 ## Links ##
 
-* [Docs (docs.mjcb.io)](/blog/2022/10/05/docs-mjcb-io/)
+* [Docs (docs.mjcb.ca)](/blog/2022/10/05/docs-mjcb-io/)
 * [Is It Worth the Time?](https://xkcd.com/1205/)
 * [Website GitHub Migration](/blog/2022/11/03/website-github-migration/)

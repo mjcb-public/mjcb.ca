@@ -30,7 +30,7 @@ The book is currently available for sale on Amazon in Paperback format:
 The book is also available for sale on Gumroad in PDF format:
 
 <div style="text-align:center; padding-top: 0px; padding-bottom: 25px;">
-    <a href="https://store.mjcb.io/l/practical-guide-to-pki-with-windows-server-first-edition/" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Buy on Gumroad">Buy on Gumroad</a>
+    <a href="https://store.mjcb.ca/l/practical-guide-to-pki-with-windows-server-first-edition/" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Buy on Gumroad">Buy on Gumroad</a>
 </div>
 
 ## What's Inside? ##
@@ -88,9 +88,9 @@ If there are any updates for the book or additional materials, they will be post
 
 ### January 21, 2024 Update ###
 
-* Added a command listing for customers who purchased the paperback version of the book, which can be found on this [page](https://docs.mjcb.io/publications/practical-guide-to-pki-with-windows-server/first-edition/command-listing/).
+* Added a command listing for customers who purchased the paperback version of the book, which can be found on this [page](https://docs.mjcb.ca/publications/practical-guide-to-pki-with-windows-server/first-edition/command-listing/).
 
 ## Links ##
 
 * [Practical Guide to PKI with Windows Server - First Edition (Amazon)](https://a.co/d/1UDoSit)
-* [Practical Guide to PKI with Windows Server - First Edition (Gumroad)](https://store.mjcb.io/l/practical-guide-to-pki-with-windows-server-first-edition/)
+* [Practical Guide to PKI with Windows Server - First Edition (Gumroad)](https://store.mjcb.ca/l/practical-guide-to-pki-with-windows-server-first-edition/)

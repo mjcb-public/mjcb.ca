@@ -24,10 +24,10 @@ Just like the [Building a Certificate Authority in Windows Server 2019](/publica
 **This is a free download, and is available on Gumroad for distribution (enter $0 when checking out).**
 
 <div style="text-align:center; padding-top: 0px; padding-bottom: 25px;">
-    <a href="https://store.mjcb.io/l/adcs-on-windows-server-2022/" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Download on Gumroad">Download on Gumroad</a>
+    <a href="https://store.mjcb.ca/l/adcs-on-windows-server-2022/" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Download on Gumroad">Download on Gumroad</a>
 </div>
 
-This guide is the successor to the [Building a Certificate Authority in Windows Server 2019](/publications/building-a-certificate-authority-in-windows-server-2019/) guide that I released in early 2022. It is also based on the multi-part [AD CS on Windows Server 2022](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/) guide that I released in the summer of 2023.
+This guide is the successor to the [Building a Certificate Authority in Windows Server 2019](/publications/building-a-certificate-authority-in-windows-server-2019/) guide that I released in early 2022. It is also based on the multi-part [AD CS on Windows Server 2022](https://docs.mjcb.ca/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/) guide that I released in the summer of 2023.
 
 This guide is updated with additional information on how to deploy a Certificate Authority, and updated for Windows Server 2022. Just like the original guide, it does not add any additional functionality such as automatic deployment using Group Policy or configuring the Online Responder role, but those can be added in the future if needed.
 
@@ -68,9 +68,9 @@ This guide is also meant to be used by developers, network administrators and sy
 
 There are several resources for expanding upon the functionality of this guide:
 
-* [AD CS on Windows Server 2019](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2019/) guide on [docs.mjcb.io](https://docs.mjcb.io/).
-* [AD CS on Windows Server 2022](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/) guide on [docs.mjcb.io](https://docs.mjcb.io/).
+* [AD CS on Windows Server 2019](https://docs.mjcb.ca/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2019/) guide on [docs.mjcb.ca](https://docs.mjcb.ca/).
+* [AD CS on Windows Server 2022](https://docs.mjcb.ca/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/) guide on [docs.mjcb.ca](https://docs.mjcb.ca/).
 
 ## Links ##
 
-* [AD CS on Windows Server 2022 (Gumroad)](https://store.mjcb.io/l/adcs-on-windows-server-2022/)
+* [AD CS on Windows Server 2022 (Gumroad)](https://store.mjcb.ca/l/adcs-on-windows-server-2022/)

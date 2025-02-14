@@ -18,7 +18,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-See the [LICENSE](https://github.com/matthew-tfs/mjcb.ca/blob/main/LICENSE) file for details.
+See the [LICENSE](https://github.com/mjcb-public/mjcb.ca/blob/main/LICENSE) file for details.
 
 ## Netlify Status ##
 

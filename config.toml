@@ -78,14 +78,14 @@ paginate = 8
     [[menu.main]]
         identifier = "store"
         name = "Store"
-        url = "https://store.mjcb.io/"
+        url = "https://store.mjcb.ca/"
         target = "_blank"
         weight = 40
 
     [[menu.main]]
         identifier = "docs"
         name = "Docs"
-        url = "https://docs.mjcb.io/"
+        url = "https://docs.mjcb.ca/"
         target = "_blank"
         weight = 50
 

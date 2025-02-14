@@ -187,7 +187,7 @@ hugo.exe server -D
 The command runs Hugo (the **-D** option shows draft posts) and tells you which port it is running the web server on:
 
 ```powershell
-PS C:\Users\Matthew\Bitbucket\mjcb.io> hugo.exe server -D
+PS C:\Users\Matthew\Bitbucket\mjcb.ca> hugo.exe server -D
 Start building sites …
 hugo v0.91.1-F4235057 windows/amd64 BuildDate=2021-12-22T15:31:06Z VendorInfo=gohugoio
 
@@ -203,8 +203,8 @@ hugo v0.91.1-F4235057 windows/amd64 BuildDate=2021-12-22T15:31:06Z VendorInfo=go
   Cleaned          |   0
 
 Built in 1275 ms
-Watching for changes in C:\Users\Matthew\Bitbucket\mjcb.io\{archetypes,content,static,themes}
-Watching for config changes in C:\Users\Matthew\Bitbucket\mjcb.io\config.toml
+Watching for changes in C:\Users\Matthew\Bitbucket\mjcb.ca\{archetypes,content,static,themes}
+Watching for config changes in C:\Users\Matthew\Bitbucket\mjcb.ca\config.toml
 Environment: "development"
 Serving pages from memory
 Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
@@ -217,7 +217,7 @@ You can go to your web browser and view the website locally to validate your con
 ```powershell
 Change detected, rebuilding site.
 2021-12-22 13:44:03.167 -0500
-Source changed "C:\\Users\\Matthew\Bitbucket\\mjcb.io\\content\\blog\\00039-goodbye-wordpress-hello-hugo.md": WRITE
+Source changed "C:\\Users\\Matthew\Bitbucket\\mjcb.ca\\content\\blog\\00039-goodbye-wordpress-hello-hugo.md": WRITE
 Total in 153 ms
 ```
 

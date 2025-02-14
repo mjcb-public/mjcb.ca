@@ -51,8 +51,8 @@ To protect your privacy and security, reasonable steps will be taken to verify y
 
 ## Contact Information ##
 
-If you have any questions or comments about the privacy policy as outlined above, please send an email to **privacy**[at]**mjcb**[dot]**io**.
+If you have any questions or comments about the privacy policy as outlined above, please send an email to **privacy**[at]**mjcb**[dot]**ca**.
 
 ## Privacy Policy Updates ##
 
-This privacy policy was last updated on February 9, 2025.
+This privacy policy was last updated on February 13, 2025.

@@ -67,7 +67,7 @@ This is yet another entry for [Killed by Google](https://killedbygoogle.com/).
 
 I did a lot of cleanup on all of my old posts over the last few weeks. I did some checking and there were a lot of small errors in a lot of my older posts, so I took some time to clean up those posts to make them easier to read. I also removed a lot of aliases that were brought over from WordPress that weren't being used. Even though I think that everything that I post on this website is a snapshot of what I was thinking at the time, it isn't static so I can make minor changes if needed as time goes on. One of the things that I like about using Hugo is that the entire website is in markdown files, so making quick edits is trivial. In the process of going through everything I found a lot of external links that were not working correctly, so those have either been corrected or removed entirely. I also corrected a lot of thumbnail images that were not displaying correctly, which were migrated from WordPress.
 
-I also made a few changes with the way that I used Gumroad, and that includes modifying the URL to use [store.mjcb.io](https://store.mjcb.io/). I am planning on using the Gumroad more in the future, and I wanted to make the change now so I don't need to do it later.
+I also made a few changes with the way that I used Gumroad, and that includes modifying the URL to use [store.mjcb.ca](https://store.mjcb.ca/). I am planning on using the Gumroad more in the future, and I wanted to make the change now so I don't need to do it later.
 
 I only really post on this website when I get time or there is something that I want to post about. I don't have any quotas, I don't use this website for ad revenue, and I don't have anyone asking for me to post anything. I have no issues posting 50 word, 500 word, or 5000 word posts whenever I find a topic that I want to go over. I am not planning on making any serious changes to this website, as I am still happy with [Hugo](/blog/2021/12/23/goodbye-wordpress-hello-hugo/) and the way that everything works with it. The [Hugo Clarity](https://github.com/chipzoller/hugo-clarity) theme is also still working well for me, but at the end of the day changing the theme is trivial if I wanted to change it.
 
@@ -81,7 +81,7 @@ I recently upgraded to macOS Sequoia 15.2 which came with Apple Intelligence. It
 
 I am not a fan of social media at all. I find it to be a complete waste of time, and I have serious issues with the way that it is used to spread misinformation on a large scale.
 
-Out of curiosity I have also been trying out [Bluesky](https://bsky.app/) and created a [profile](https://bsky.app/profile/mjcb.io). I never used Twitter, and I have certainly never used X, and I never really understood the appeal of it. I find the experience to be a strange unfiltered echo chamber, so I probably won't keep it around for long.
+Out of curiosity I have also been trying out [Bluesky](https://bsky.app/) and created a [profile](https://bsky.app/profile/mjcb.ca). I never used Twitter, and I have certainly never used X, and I never really understood the appeal of it. I find the experience to be a strange unfiltered echo chamber, so I probably won't keep it around for long.
 
 While I don't really consider it to be social media, I have had just about enough with LinkedIn. The site is a shell of its former self, and is just full of influencers who post complete nonsense all day long. Over the last few months I have turned off all notifications and uninstalled the app from my phone. I try to make an effort to check the site a few times a month, which I usually forget to do. If anyone is trying to contact me, LinkedIn is not the way to do so.
 
@@ -89,7 +89,7 @@ I have also been testing Discord for a future project that I am working on. If I
 
 ## 2025 Goals ##
 
-I have several posts that I want to make in 2025, and some of them are going to require a bit of work to put together. I will post all of my sources on the [docs.mjcb.io](https://docs.mjcb.io/) website, as I want to make sure that all of the background information is in one location.
+I have several posts that I want to make in 2025, and some of them are going to require a bit of work to put together. I will post all of my sources on the [docs.mjcb.ca](https://docs.mjcb.ca/) website, as I want to make sure that all of the background information is in one location.
 
 I will make an effort to post some networking content in 2025. I have had the tagline, "A website about networking, system administration and other things that interest me" since the day that I started this website, and I have never actually posted anything that is network related. I did some thinking about this recently, and I think I finally realized why I never talk about networking topics on this website and it is because of my job. I post a lot about Microsoft and server topics, and I think it is because I don’t work as a systems administrator anymore, I work in networking and security.
 
@@ -101,12 +101,12 @@ I won't get into the details, but I have rewritten a lot of the book due to feed
 
 ## Links ##
 
-* [Bluesky Profile](https://bsky.app/profile/mjcb.io)
+* [Bluesky Profile](https://bsky.app/profile/mjcb.ca)
 * [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer/)
-* [docs.mjcb.io](https://docs.mjcb.io/)
+* [docs.mjcb.ca](https://docs.mjcb.ca/)
 * [Killed by Google](https://killedbygoogle.com/)
 * [Skills Competition Retrospective](/blog/2024/04/28/skills-competition-retrospective/)
 * [Skills Ontario 2009 Retrospective](/blog/2024/05/05/skills-ontario-2009-retrospective/)
 * [Skills Canada 2009 Retrospective](/blog/2024/05/30/skills-canada-2009-retrospective/)
 * [Squarespace Enters Definitive Agreement to Acquire Google Domains Assets - PR Newswire](https://www.prnewswire.com/news-releases/squarespace-enters-definitive-agreement-to-acquire-google-domains-assets-301852507.html) ([Local Version](/docs/blog/00072/squarespace_enters_definitive_agreement_to_acquire_google_domains_assets.pdf))
-* [store.mjcb.io](https://store.mjcb.io/)
+* [store.mjcb.ca](https://store.mjcb.ca/)

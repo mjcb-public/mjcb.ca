@@ -36,7 +36,7 @@ Now available for purchase, a complete book version of this guide. Includes an e
 </div>
 </div>
 
-**Note:** This guide is archived and is no longer updated on this website. For any future updates to this guide, please refer to the [version](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2019/adcs-windows-server-2019-part-3/) that can be found on [docs.mjcb.io](https://docs.mjcb.io/).
+**Note:** This guide is archived and is no longer updated on this website. For any future updates to this guide, please refer to the [version](https://docs.mjcb.ca/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2019/adcs-windows-server-2019-part-3/) that can be found on [docs.mjcb.ca](https://docs.mjcb.ca/).
 
 ## 3.1 Export the Root and Subordinate Certificates ##
 

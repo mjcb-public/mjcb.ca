@@ -34,4 +34,4 @@ If you have any questions or comments about the privacy policy as outlined above
 
 ## Cookie Policy Updates ##
 
-This cookie policy was last updated on February 9, 2025.
+This cookie policy was last updated on February 13, 2025.
