@@ -28,8 +28,12 @@ Luckily, Netlify makes this change trivial to complete (similar to an htaccess f
     force = true
 ```
 
-There are a lot of reasons why I decided to make this change now, and I will go into details in a later post as there are a lot of other changes going on as well.
+There are a lot of reasons why I decided to make this change now, and I will go into details in later posts as there are a lot of other changes going on. Other items will slowly be updated to reflect this new domain name, and that will occur over the new few months.
 
-Other items will slowly be updated to reflect this new domain name, and will occur over the new few months.
+I also made a few other changes, and that is with the GitHub repository that I was using for hosting the website repo, as well as the analytics tool. I have migrated to a different [GitHub profile](https://github.com/mjcb-public/) for my public repositories, as I was never comfortable with mixing private and public repos. I also got rid of Google Analytics and moved to a different provider ([Simple Analytics](https://www.simpleanalytics.com/)).
 
-Hopefully this change is completely transparent and doesn't cause any issues.
+Hopefully this change is completely transparent and doesn't cause any issues. I have been keeping an eye on the traffic for the last few days and I can't see any issues so far.
+
+## Links ##
+
+* [mjcb-public](https://github.com/mjcb-public/)
