@@ -89,6 +89,6 @@ See the [LICENSE](https://github.com/mjcb-public/mjcb.ca/blob/main/LICENSE) file
 * **/layouts/shortcodes/** - Contains all custom shortcodes that can be used.
 * **/static/** - Contains all content that is placed in the root of the website when rendered by Hugo.
 * **/static/docs/blog/** - Contains all linked documents for blog posts. Directories are numbered to match the blog post.
-* **/static/gdpr-notice/** - Contains the necessary files for the GDPR notice for the website.
+* **/static/gdpr-notice/** - Contains the necessary files for the GDPR notice for the website (if required).
 * **/static/images/** - Contains all images.
 * **/static/images/blog/** - Contains all images for blog posts. Directories are numbered to match the blog post.
