@@ -32,6 +32,8 @@ There are a lot of reasons why I decided to make this change now, and I will go 
 
 I also made a few other changes, and that is with the GitHub repository that I was using for hosting the website repo, as well as the analytics tool. I have migrated to a different [GitHub profile](https://github.com/mjcb-public/) for my public repositories, as I was never comfortable with mixing private and public repos. I also got rid of Google Analytics and moved to a different provider ([Simple Analytics](https://www.simpleanalytics.com/)).
 
+My [contact information](/about/#contact) has also been updated as a result of the domain name change.
+
 Hopefully this change is completely transparent and doesn't cause any issues. I have been keeping an eye on the traffic for the last few days and I can't see any issues so far.
 
 ## Links ##

@@ -29,10 +29,10 @@ So that is why I don't have a GitHub page, and probably never will. Unless I get
 
 I have been doing some work lately on a new project, and I may follow-up this post with the question, "Do you know what Network Automation is?"
 
-**September 30, 2022, Update:** I now have a [GitHub](https://github.com/matthew-tfs/) page.
+**September 30, 2022, Update:** I now have a [GitHub](https://github.com/mjcb-public/) page.
 
 ## Links ##
 
-* [Docs (docs.mjcb.ca)](/blog/2022/10/05/docs-mjcb-io/)
+* [Docs (docs.mjcb.ca)](/blog/2022/10/05/docs-mjcb-ca/)
 * [Is It Worth the Time?](https://xkcd.com/1205/)
 * [Website GitHub Migration](/blog/2022/11/03/website-github-migration/)

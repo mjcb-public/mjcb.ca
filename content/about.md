@@ -63,14 +63,15 @@ Even though I don't like to keep old things, I collect old laptops and other leg
 
 This website was previously hosted on [WordPress.com](https://wordpress.com/) up until the end of 2021 and was moved to a different [platform and hosting provider](/blog/2021/12/23/goodbye-wordpress-hello-hugo/). Currently, this website is using the following platforms for content management and hosting:
 
-* [Cloudflare](https://www.cloudflare.com/) - For DNS hosting and various other services.
+* [ClouDNS](https://www.cloudns.net/) - For DNS hosting and various other services.
 * [GitHub](https://github.com/) - For hosting the website's Git repository.
 * [Hugo](https://gohugo.io/) - For content management and static HTML generation.
 * [Netlify](https://www.netlify.com/) - For website hosting.
+* [Simple Analytics](https://www.simpleanalytics.com/) - For website analytics.
 
-I am using the [Hugo Clarity](https://github.com/chipzoller/hugo-clarity) theme with very minor modifications.
+I am using the [Hugo Clarity](https://github.com/chipzoller/hugo-clarity) theme with minor modifications.
 
-The contents of this website are available publicly on [GitHub](https://github.com/mjcb-public/mjcb.ca/).
+The contents of this website are available publicly on [GitHub](https://github.com/mjcb-public/mjcb.ca/) and is under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 ## Personal ##
 
@@ -102,13 +103,13 @@ Click [here](/privacy-policy/) to view the complete Privacy Policy for this webs
 
 ## Contact ##
 
-If you would like to contact me by email, feel free to send me a message at **matthew**[at]**mjcb**[dot]**io**. Please use this [PGP Key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xb455b8191a2763ec) for encryption if possible. I am not always prompt with responding to messages, so if you don't hear from me immediately it is not because I am ignoring the message, I just haven't had the chance to properly respond to it.
+If you would like to contact me by email for any reason, feel free to send me a message at **matthew**[at]**mjcb**[dot]**ca**. Please use this [PGP Key](https://keys.openpgp.org/vks/v1/by-fingerprint/E66CC936C624A4E993E9093671ECE9AD35D61875) for encryption if possible. I am not always prompt with responding to messages, so if you don't hear from me immediately it is not because I am ignoring the message, I just haven't had the chance to properly respond to it.
 
 ## Links ##
 
 * [Amazon Author Profile](https://www.amazon.com/author/matthewburr/)
 * [docs.mjcb.ca](https://docs.mjcb.ca/)
-* [GitHub](https://github.com/matthew-tfs/)
 * [Gumroad Store](https://store.mjcb.ca/)
-* [Public PGP Key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xb455b8191a2763ec)
+* [PGP Key - OpenPGP Keyserver](https://keys.openpgp.org/vks/v1/by-fingerprint/E66CC936C624A4E993E9093671ECE9AD35D61875)
+* [PGP Key - Ubuntu Keyserver](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xe66cc936c624a4e993e9093671ece9ad35d61875)
 * [Ten Fifteen Solutions](https://tenfifteen.ca/)

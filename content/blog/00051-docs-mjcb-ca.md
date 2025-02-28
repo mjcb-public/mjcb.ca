@@ -1,6 +1,9 @@
 ---
 title: "Docs (docs.mjcb.ca)"
-slug: "docs-mjcb-io"
+slug: "docs-mjcb-ca"
+aliases: [
+    "/blog/2022/10/05/docs-mjcb-io/"
+]
 date: "2022-10-05T19:48:00"
 author: "Matthew Burr"
 summary: "I am launching a dedicated website that is going to be just for documentation that I have created over the years, and for all documentation that I will be creating going forward. It uses Hugo and Netlify just like this website, and GitHub for hosting the Git repository. I have decided to make the repository for the website public, so anyone can download it if they want."
@@ -29,7 +32,7 @@ I posted the [Building a Certificate Authority in Windows Server 2019](/blog/202
 
 I have recently migrated all of my Git repos to GitHub (in contrast to my [Sorry, I Don't Have a GitHub Page](/blog/2019/04/02/sorry-no-github-page/) post). I decided to make the website on a public repository so anyone could look at the source, but I am not making it a community repository or anything. I'll probably move this website to a public repository as well, there isn't anything secret here or anything so there isn't a reason to keep it private.
 
-The website uses the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. The license can be viewed [here](https://github.com/matthew-tfs/docs.mjcb.ca/blob/main/LICENSE).
+The website uses the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. The license can be viewed [here](https://github.com/mjcb-public/docs.mjcb.ca/blob/main/LICENSE).
 
 This new website is going to be a continual work in progress, and I won't post updates about it to this blog unless I need to. I will continue to post items to my main website, it is not going away.
 
