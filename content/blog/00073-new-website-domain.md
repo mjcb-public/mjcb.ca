@@ -20,7 +20,7 @@ As of today, the **mjcb.io** domain that I have been using since 2018 is now dep
 
 Luckily, Netlify makes this change trivial to complete (similar to an htaccess file):
 
-```toml
+```
 [[redirects]]
     from = "https://mjcb.io/*"
     to = "https://mjcb.ca/:splat"
