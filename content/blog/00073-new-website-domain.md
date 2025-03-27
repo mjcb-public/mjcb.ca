@@ -38,4 +38,4 @@ Hopefully this change is completely transparent and doesn't cause any issues. I 
 
 ## Links ##
 
-* [mjcb-public](https://github.com/mjcb-public/)
+* [GitHub](https://github.com/mjcb-public/)
