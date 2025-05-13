@@ -303,8 +303,8 @@ From a Team Ontario perspective, Team Ontario has medalled 14 times since 2000 i
 [^4]: There was no Skills Canada competition held in 1995.
 [^5]: I was unable to find the Silver and Bronze winners of the IT and Network Support competition in 1999.
 [^6]: The earliest complete competition results that are publicly available on the Skills Canada websites. There was no IT and Network Support scope in 2000.
-[^7]: The Skills Canada competition for this year was cancelled due to COVID-19.
-[^8]: The Skills Canada competition for this year was hosted virtually due to COVID-19.
+[^7]: The Skills Canada competition for 2020 was cancelled due to COVID-19.
+[^8]: The Skills Canada competition for 2021 was hosted virtually due to COVID-19.
 
 Cambrian College has medalled 7 times in the IT and Network Support competition since 2004 (when Team Ontario has medalled in the competition):
 
