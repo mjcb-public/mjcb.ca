@@ -5,6 +5,7 @@ date: "2025-02-13T22:57:00"
 author: "Matthew Burr"
 summary: "I wasn't planning on making this change right now, but recent events have accelerated my schedule. I am retiring the mjcb.io domain and moving everything to the mjcb.ca domain for all of my online services. I wanted to make this change sooner rather than later, as it will take time for those changes to be propagated. Fortunately, I am not too concerned with a lot of the issues that arise from changing domains."
 tags: [
+    "EU Alternatives",
     "Netlify",
     "Website"
 ]
@@ -38,4 +39,4 @@ Hopefully this change is completely transparent and doesn't cause any issues. I 
 
 ## Links ##
 
-* [GitHub](https://github.com/mjcb-public/)
+* [GitHub Profile](https://github.com/mjcb-public/)
