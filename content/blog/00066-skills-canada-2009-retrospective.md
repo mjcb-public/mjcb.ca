@@ -298,6 +298,7 @@ From a Team Ontario perspective, Team Ontario has medalled 14 times since 2000 i
 | [2022](/docs/blog/00066/scnc_results/scnc_2022_results.pdf) Results     | 28th  | Vancouver, BC       | BC      | **ON**  | AB      |
 | [2023](/docs/blog/00066/scnc_results/scnc_2023_results.pdf) Results     | 29th  | Winnipeg, MB        | MB      | **ON**  | NL      |
 | [2024](/docs/blog/00066/scnc_results/scnc_2024_results.pdf) Results     | 30th  | Quebec City, QB     | MB      | BC      | **ON**  |
+| [2025](/docs/blog/00066/scnc_results/scnc_2025_results.pdf) Results     | 31st  | Regina, SK          | MB      | BC      | NB      |
 
 [^3]: This is the first year of the Skills Canada (SCNC) competition.
 [^4]: There was no Skills Canada competition held in 1995.
