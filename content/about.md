@@ -53,7 +53,7 @@ I am currently using the following equipment for my daily personal usage:
 * Apple MacBook Air (M1, 2020)
 * Apple iPhone 12 Pro Max
 
-I also have an HP EliteDesk 600 G3 Mini (Intel Core i5-7500T, 32 GB RAM, Windows Server 2022) that I use for running virtual machines on Hyper-V, and that is only for testing purposes. I run all my important virtual machines on cloud services, and I don't run anything locally that I rely on.
+I also have an HP EliteDesk 600 G3 Mini (Intel Core i5-7500T, 32 GB RAM, Windows Server 2022) that I use for running virtual machines on Hyper-V, and that is only for testing purposes.
 
 VS Code is my text editor of choice and as the IDE for all projects that I do. Most of my daily workflow uses VS Code in some capacity, usually with GitHub involved.
 
